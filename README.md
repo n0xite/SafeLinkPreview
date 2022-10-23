@@ -2,7 +2,7 @@
 Safe Link Preview or SLP, is a safe sandbox enviroment that allows to avoid a potential phishing, nsfw, jumpscare or a rickroll.
 
 This an educational project with no real world value but I still plan to add new features to it.
-Currently it's in a very basic form which hinders the user experience quiet a bit.
+Currently it's in a very basic form which hinders the user experience quite a bit.
 
 
 To set it up you need a server for safe execution, like a Raspberry Pi.
