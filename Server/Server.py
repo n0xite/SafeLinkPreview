@@ -8,7 +8,7 @@ import socket
 
 
 config = configparser.ConfigParser()
-config.read(r'C:\Users\n000x\PycharmProjects\SLP\SafeLinkPreview\config.ini')
+config.read(r'../config.ini')
 webdriverPath = config['BINARIES']['PathToWebdriver']
 binary = FirefoxBinary(config['BINARIES']['PathToFirefoxBinary'])
 
